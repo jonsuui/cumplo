@@ -96,7 +96,7 @@ ipywidgets==7.4.2
 isort==4.3.4
 itsdangerous==1.1.0
 jedi==0.13.1
-Jinja2==2.10
+Jinja2>=2.10.1
 joblib==0.12.5
 jsonschema==2.6.0
 julia==0.1.5
@@ -146,7 +146,7 @@ nbformat==4.4.0
 netCDF4==1.4.2
 networkx==2.3rc1.dev20181020104102
 nltk==3.3
-notebook==5.7.0
+notebook>=5.7.8
 numba==0.40.0
 numcodecs==0.5.5
 numdifftools==0.9.20
@@ -224,7 +224,7 @@ pywin32==224
 pywin32-ctypes==0.2.0
 pywinpty==0.5.4
 pywinusb==0.4.2
-PyYAML==4.1
+pyyaml>=4.2b1
 pyzmq==17.1.2
 pyzo==4.6.2.dev0
 QtAwesome==0.5.2
@@ -263,7 +263,7 @@ sphinx-rtd-theme==0.4.2
 sphinxcontrib-websupport==1.1.0
 spyder==3.3.2.dev0
 spyder-kernels==0.2.6
-SQLAlchemy==1.2.12
+SQLAlchemy>=1.3.0
 sqlite-bro==0.8.11
 sqlparse==0.2.4
 statsmodels==0.9.0
@@ -285,7 +285,7 @@ twitter==1.17.1
 typed-ast==1.1.0
 tzlocal==1.5.1
 uncertainties==3.0.3
-urllib3==1.24
+urllib3>=1.24.2
 vega==2.0rc2
 vega-datasets==0.5.0
 ViTables==3.0.0
